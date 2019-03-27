@@ -3,4 +3,4 @@ Solutions of the famous "Ninety-Nine Prolog Problems" but in Coffeescript, hence
 
 A whole latte Coffeescript! Assuming I finish this, of course. If only there were some caffeinated beverage that could fuel me through this endeavor. I'll have to ponder on that one, hmmm...
 
-And of course, feel free to insert your own obligatory "99 Problems ..." Jay-Z bad pun reference here, "I got 99 coffees but a decaf ain't one," for example.
+A repo like this wouldn't be complete without the obligatory "I got 99 problems but a [bad pun goes here]" Jay-Z reference, for example, "I got 99 Coffeescripts but a decaf ain't one!" If you can come up with something even funnier (which seems likely), just send a pull request and I'll add it to the README. 
