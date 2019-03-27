@@ -1,4 +1,4 @@
-# 99Lattes
+# 99 Lattes
 Solutions of the famous "Ninety-Nine Prolog Problems" but in Coffeescript, hence "99 Lattes", get it?
 
 A whole latte Coffeescript! Assuming I finish this, of course. If only there were some caffienated (sp? I'm too tired to look it up) beverage that could fuel me through this endeavor. I'll have to ponder on that one, hmmm...
